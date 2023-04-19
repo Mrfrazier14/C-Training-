@@ -1,0 +1,5 @@
+/workspaces/C-Training-/obj/Debug/net7.0/C-Training-.csproj.AssemblyReference.cache
+/workspaces/C-Training-/obj/Debug/net7.0/C-Training-.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-Training-/obj/Debug/net7.0/C-Training-.AssemblyInfoInputs.cache
+/workspaces/C-Training-/obj/Debug/net7.0/C-Training-.AssemblyInfo.cs
+/workspaces/C-Training-/obj/Debug/net7.0/C-Training-.csproj.CoreCompileInputs.cache
