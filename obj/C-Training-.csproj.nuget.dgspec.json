@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/workspaces/C-Training-/C-Training-.csproj": {}
+    "/Users/aaronfrazier/Documents/GIT-hub-porjects/C-Training-/C-Training-.csproj": {}
   },
   "projects": {
-    "/workspaces/C-Training-/C-Training-.csproj": {
+    "/Users/aaronfrazier/Documents/GIT-hub-porjects/C-Training-/C-Training-.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/workspaces/C-Training-/C-Training-.csproj",
+        "projectUniqueName": "/Users/aaronfrazier/Documents/GIT-hub-porjects/C-Training-/C-Training-.csproj",
         "projectName": "C-Training-",
-        "projectPath": "/workspaces/C-Training-/C-Training-.csproj",
-        "packagesPath": "/home/codespace/.nuget/packages/",
-        "outputPath": "/workspaces/C-Training-/obj/",
+        "projectPath": "/Users/aaronfrazier/Documents/GIT-hub-porjects/C-Training-/C-Training-.csproj",
+        "packagesPath": "/Users/aaronfrazier/.nuget/packages/",
+        "outputPath": "/Users/aaronfrazier/Documents/GIT-hub-porjects/C-Training-/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/home/codespace/.nuget/NuGet/NuGet.Config"
+          "/Users/aaronfrazier/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
@@ -53,7 +53,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/dotnet/7.0.202/sdk/7.0.202/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/aaronfrazier/.vscode-dotnet-sdk/.dotnet/sdk/7.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
