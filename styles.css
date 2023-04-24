@@ -1,1 +1,6 @@
-// I will add in more new background colors and options 
+Body {
+    background-color: blue;
+}
+head {
+    background-color: red;
+}
